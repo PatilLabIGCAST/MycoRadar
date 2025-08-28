@@ -2,9 +2,11 @@
 
 
 # MycoRadar
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e7b425bb-e7f1-40e9-8721-e77eea8e5ae7" width="300" alt="MycoRadar Logo">
+  <img src="https://github.com/user-attachments/assets/958ccc2b-1936-4168-8c63-f2d5f6784021" width="300" alt="MycoRadar Logo">
 </p>
+
 
 
 ## Description
@@ -37,8 +39,8 @@ You can launch the application by simply typing:
 ```
 MycoRadar
 ```
-<img width="1830" height="843" alt="image" src="https://github.com/user-attachments/assets/b9c9b981-5249-4a63-8c89-ae5d76928fbe" />
 
+<img width="1830" height="837" alt="screenshot" src="https://github.com/user-attachments/assets/0d7b49e1-ae99-43ce-9094-99a30a5d00f0" />
 
 
 ---
