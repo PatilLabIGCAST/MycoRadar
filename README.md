@@ -59,20 +59,19 @@ You are free to use, modify, and distribute this software with proper attributio
 ---
 
 ## Acknowledgments
--U-Net for semantic segmentation.
--PyTorch for deep learning framework.
--Albumentations for data augmentation in preprocessing.
--OpenCV for image manipulation.
--LabelMe for image annotation.
--TTU for root images.
+- U-Net for semantic segmentation.  
+- PyTorch for deep learning framework.  
+- OpenCV for image manipulation.  
+- LabelMe for image annotation.  
+- TTU for root images.  
 
 ---
 
 ## Contact
 
-GitHub: Ansh-Patange  
+GitHub: PatilLabIGCAST 
 
-Email: patangeansh@gmail.com  
+Email: ansh.patange@gmail.com
 
 
 For any issues or inquiries, please open an issue in the GitHub repository or reach out via email.
